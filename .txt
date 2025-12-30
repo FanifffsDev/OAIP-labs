@@ -1,0 +1,36 @@
+1. What are the main parts of the CPU?
+
+In my opinion, the main parts of the CPU are the control unit (CU), the arithmetic logic unit (ALU), and the registers. Together, they manage instructions, perform calculations, and store small amounts of temporary data.
+
+2. What does ALU stand for? What does it do?
+
+ALU stands for Arithmetic Logic Unit.
+It performs all arithmetic operations (like addition and subtraction) and logical operations (such as comparisons).
+
+3. What is the function of the system clock?
+
+The system clock sends out regular electrical pulses and synchronizes all operations inside the computer. It sets the pace at which the CPU executes instructions.
+
+4. What is the difference between RAM, ROM and cache? What is virtual memory?
+
+RAM is temporary, fast memory that stores data and programs while the computer is running.
+
+ROM is permanent, non-volatile memory that stores instructions for starting the computer.
+
+Cache is extremely fast memory that stores frequently used data to speed up CPU operations.
+
+Virtual memory is when the computer uses part of the hard drive or SSD as extra RAM when the real RAM is not enough.
+
+5. What is the main circuit board? What does it contain?
+
+The main circuit board is the motherboard.
+It contains the CPU, RAM slots, expansion slots, storage connectors, power connectors, and all the buses that allow components to communicate.
+
+
+
+1. we can compare the CPU with the brain of the computer. It performs logical and i/o operations 
+2. everything
+3. (ALU, CU and Cache)
+4. single integrated unit
+5. CPU is located on the main circuit board - motherboard
+6. cooling system
