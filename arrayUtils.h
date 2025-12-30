@@ -5,7 +5,7 @@ void printIntArray(int* arr, int size){
 
     std::cout << "[";
     while(i < size -1){
-        std::cout << arr[i] << ", ";
+        std::cout << arr[i] << ",";
         i++;
     }
     std::cout << arr[size - 1] << "]" << std::endl;
